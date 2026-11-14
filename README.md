@@ -8,7 +8,7 @@
 
 Building useful Android experiences with a focus on clean design, smooth interactions, and practical features.
 
-[![MARCO RX6](https://img.shields.io/badge/MARCO%20RX6-Explore%20Project-1677FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/2simo/Marco-RX6)
+[![MARCO RX6](https://img.shields.io/badge/MARCO%20RX6-Explore%20Project-1677FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/XPANGWAN/Marco-RX6)
 [![Telegram](https://img.shields.io/badge/Telegram-Community-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MARCO_RX1)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@marco_rx7)
 
@@ -20,7 +20,7 @@ Building useful Android experiences with a focus on clean design, smooth interac
 
 I'm **XPANGWAN**, an independent developer working on Android applications and digital projects.
 
-My main project is **[MARCO RX6](https://github.com/2simo/Marco-RX6)** — a gaming library app designed to help users organize and explore their game collections.
+My main project is **[MARCO RX6](https://github.com/XPANGWAN/Marco-RX6)** — a gaming library app designed to help users organize and explore their game collections.
 
 ## Featured Project
 
@@ -30,7 +30,7 @@ My main project is **[MARCO RX6](https://github.com/2simo/Marco-RX6)** — a gam
 - Blogger publishing and Google Drive integration.
 - Customizable appearance and user experience.
 
-[**View the project and latest release →**](https://github.com/2simo/Marco-RX6)
+[**View the project and latest release →**](https://github.com/XPANGWAN/Marco-RX6)
 
 ## Technologies
 
