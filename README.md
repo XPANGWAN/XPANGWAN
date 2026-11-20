@@ -72,40 +72,43 @@ My main project is **MARCO RX6**, an Android game-library application built arou
 
 # XPANGWAN
 
-**مطوّر Android مستقل وصانع مشروع MARCO RX6.**
+**مطوّر Android مستقل وصانع MARCO RX6.**
 
-أهتم بتحويل الأفكار إلى تطبيقات عملية، وبناء الميزات من التخطيط إلى التنفيذ، وتحسين الاعتمادية وتجربة المستخدم مع كل تحديث.
+أعمل على تحويل الأفكار إلى تجارب Android عملية، وأهتم ببناء الميزات من البداية إلى النهاية، وتحسين موثوقية التطبيقات وتقديم تجربة استخدام واضحة.
 
-## ✦ المشروع الرئيسي
+## المشروع المميز
 
 ### MARCO RX6
 
 **ألعابك. مكتبتك. وتحكمك الكامل.**
 
-تطبيق Android لإدارة مكتبة الألعاب واستكشاف محتواها، مع أدوات لإدارة التنزيلات وخدمات Google المتصلة.
+تطبيق Android لإدارة مكتبة الألعاب واستكشاف كتالوجها، مع أدوات للتنزيل وخدمات Google المتصلة.
 
-[زيارة مستودع MARCO RX6](https://github.com/XPANGWAN/Marco-RX6) · [التحميل من الموقع الرسمي](https://marcorx6app.dpdns.org/#download) · [إصدارات GitHub](https://github.com/XPANGWAN/Marco-RX6/releases/latest)
+<div align="center">
 
-## ◈ أبرز الإمكانات
+<a href="https://github.com/XPANGWAN/Marco-RX6/releases/latest"><img src="https://img.shields.io/github/v/release/XPANGWAN/Marco-RX6?style=for-the-badge&color=1677ff" alt="أحدث إصدار من MARCO RX6"></a>
+<a href="https://marcorx6app.dpdns.org/#download"><img src="https://img.shields.io/badge/الموقع%20الرسمي-تحميل-1677ff?style=for-the-badge&logo=android&logoColor=white" alt="التحميل من الموقع الرسمي"></a>
 
-| المجال | التفاصيل |
+</div>
+
+| المجال | إمكانات المشروع |
 |---|---|
-| 🎮 مكتبة الألعاب | تصفح الألعاب والبحث والتصفية والتنظيم |
-| 📥 التنزيلات | إدارة التنزيلات مع الإيقاف المؤقت والاستئناف والإلغاء |
-| 👤 الحسابات | تسجيل الدخول عبر Google أو البريد الإلكتروني، مع وضع الزائر |
-| ☁️ الخدمات المتصلة | التكامل مع Google Drive وBlogger |
-| 🌐 تجربة الاستخدام | واجهة قابلة للتخصيص ودعم العربية والإنجليزية والفرنسية والإسبانية |
+| 🎮 مكتبة الألعاب | تصفح كتالوج متعدد المنصات والبحث والتصفية وتنظيم الألعاب. |
+| 📥 التنزيلات | إدارة التنزيلات مع الإيقاف المؤقت والاستئناف والإلغاء. |
+| 👤 الحسابات | تسجيل الدخول عبر Google أو البريد الإلكتروني، مع إمكانية المتابعة كزائر. |
+| ☁️ الخدمات المتصلة | التكامل مع Google Drive وBlogger. |
+| 🌐 تجربة الاستخدام | واجهة قابلة للتخصيص ودعم العربية والإنجليزية والفرنسية والإسبانية. |
 
-## ◈ التقنيات
+**[استكشف المستودع](https://github.com/XPANGWAN/Marco-RX6)** · **[التحميل من الموقع الرسمي](https://marcorx6app.dpdns.org/#download)** · **[إصدارات GitHub](https://github.com/XPANGWAN/Marco-RX6/releases/latest)**
+
+## التقنيات
 
 Kotlin · Android · Firebase · Google APIs · GitHub
 
-## ◈ التواصل
+## التواصل
 
-| المنصة | الرابط |
-|---|---|
-| Telegram | [مجتمع MARCO RX6](https://t.me/MARCO_RX1) |
-| YouTube | [قناة MARCO](https://youtube.com/@marco_rx7) |
-| GitHub | [مشروع MARCO RX6](https://github.com/XPANGWAN/Marco-RX6) |
+- **Telegram:** [مجتمع MARCO RX6](https://t.me/MARCO_RX1)
+- **YouTube:** [قناة MARCO](https://youtube.com/@marco_rx7)
+- **مستودع المشروع:** [XPANGWAN/Marco-RX6](https://github.com/XPANGWAN/Marco-RX6)
 
 </div>
