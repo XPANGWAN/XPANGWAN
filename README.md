@@ -27,6 +27,7 @@ My main project is **MARCO RX6**, an Android game-library application built arou
   <h2><a href="https://github.com/XPANGWAN/Marco-RX6">MARCO RX6</a></h2>
   <p><strong>Your games. Your library. Your control.</strong></p>
   <a href="https://github.com/XPANGWAN/Marco-RX6/releases/latest"><img src="https://img.shields.io/github/v/release/XPANGWAN/Marco-RX6?style=for-the-badge&color=1677ff" alt="Latest MARCO RX6 release"></a>
+  <a href="https://marcorx6app.dpdns.org/#download"><img src="https://img.shields.io/badge/OFFICIAL%20WEBSITE-DOWNLOAD-1677ff?style=for-the-badge&logo=android&logoColor=white" alt="Download from official MARCO RX6 website"></a>
   <a href="https://github.com/XPANGWAN/Marco-RX6"><img src="https://img.shields.io/github/stars/XPANGWAN/Marco-RX6?style=for-the-badge&color=silver" alt="MARCO RX6 stars"></a>
 </div>
 
@@ -38,7 +39,7 @@ My main project is **MARCO RX6**, an Android game-library application built arou
 | Connected services | Google Drive and Blogger integrations |
 | Experience | Customizable interface with Arabic, English, French, and Spanish |
 
-**[Explore the repository](https://github.com/XPANGWAN/Marco-RX6)** · **[Get the latest release](https://github.com/XPANGWAN/Marco-RX6/releases/latest)**
+**[Explore the repository](https://github.com/XPANGWAN/Marco-RX6)** · **[Download from the official website](https://marcorx6app.dpdns.org/#download)** · **[GitHub releases](https://github.com/XPANGWAN/Marco-RX6/releases/latest)**
 
 ## TECHNOLOGY
 
@@ -83,7 +84,7 @@ My main project is **MARCO RX6**, an Android game-library application built arou
 
 تطبيق Android لإدارة مكتبة الألعاب واستكشاف محتواها، مع أدوات لإدارة التنزيلات وخدمات Google المتصلة.
 
-[زيارة مستودع MARCO RX6](https://github.com/XPANGWAN/Marco-RX6) · [تحميل أحدث إصدار](https://github.com/XPANGWAN/Marco-RX6/releases/latest)
+[زيارة مستودع MARCO RX6](https://github.com/XPANGWAN/Marco-RX6) · [التحميل من الموقع الرسمي](https://marcorx6app.dpdns.org/#download) · [إصدارات GitHub](https://github.com/XPANGWAN/Marco-RX6/releases/latest)
 
 ## ◈ أبرز الإمكانات
 
